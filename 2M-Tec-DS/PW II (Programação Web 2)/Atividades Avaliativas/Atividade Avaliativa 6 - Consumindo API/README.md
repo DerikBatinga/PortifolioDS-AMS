@@ -83,14 +83,3 @@ Se aparecer erro de servidor, confira a internet, a extensão cURL e o terminal 
 6. Reduza a janela para largura de celular e navegue com Tab: campo e botão devem permanecer utilizáveis.
 7. Desconecte a internet e faça uma nova busca: deve aparecer erro, e o botão deve voltar a funcionar. Reconecte e tente novamente.
 8. Para ver o JSON processado pelo PHP, abra `/api.php?cidade=Curitiba` no mesmo servidor.
-
-## Referências e créditos
-
-- [Open-Meteo — documentação da previsão](https://open-meteo.com/en/docs)
-- [Open-Meteo — geocodificação](https://open-meteo.com/en/docs/geocoding-api)
-- [GeoNames — dados geográficos](https://www.geonames.org/)
-- [CC BY 4.0 — atribuição dos dados](https://creativecommons.org/licenses/by/4.0/)
-- [GitHub — criação de repositório](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
-- [GitHub Pages — hospedagem de arquivos estáticos](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-- [YouTube — envio de vídeos](https://support.google.com/youtube/answer/57407?hl=pt-BR)
-- [YouTube — visibilidade](https://support.google.com/youtube/answer/157177?hl=pt-BR)
