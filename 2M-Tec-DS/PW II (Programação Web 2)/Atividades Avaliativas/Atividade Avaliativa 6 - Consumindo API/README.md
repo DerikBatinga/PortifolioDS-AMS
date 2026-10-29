@@ -1,3 +1,5 @@
+<img width="637" height="618" alt="image" src="https://github.com/user-attachments/assets/9bcf054c-d4b0-4e11-ac21-2748077a06f9" />
+
 # DomEarth
 
 Atividade escolar: consulta de condições atuais por cidade, com **PHP no backend**, HTML, CSS e JavaScript. Sem banco de dados, frameworks, Composer ou cadastro de usuário.
