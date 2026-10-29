@@ -1,4 +1,4 @@
-<img width="637" height="618" alt="image" src="https://github.com/user-attachments/assets/9bcf054c-d4b0-4e11-ac21-2748077a06f9" />
+<img width="117" height="108" alt="image" src="https://github.com/user-attachments/assets/9bcf054c-d4b0-4e11-ac21-2748077a06f9" />
 
 # DomEarth
 
